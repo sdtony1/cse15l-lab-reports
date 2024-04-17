@@ -35,3 +35,8 @@ class ChatServer {
 *  The `handleRequest` method is called here.
 *  Argument is `url` in my method. It equals to `http://localhost:4000/add-message?s=How%20are%20you&user=yash` here.
 *  Field `result` changes to `jpolitz: Hello + \n + ash: How are you` here.
+
+# Part 2
+1. ![Image](lab2part2a.png)
+2. ![Image]
+3. ![Image](lab2part2c.png)
