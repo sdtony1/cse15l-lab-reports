@@ -40,7 +40,7 @@
    * The command outputs nothing.
    * THe output is not an error and `cat` runs in an infinite loop and will read data from its standard input and write them to its standard output.
 2. with a path to a directory
-   * ![Image] (cat with path to directory.png)
+   * ![Image](cat with path to directory.png)
    * `/workspaces/cse15l-lab-reports/`
    * The command causes an error because the input argument is a directory
    * The output is an error because `cat` can't print contents of a directory
