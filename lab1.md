@@ -28,7 +28,7 @@
    * The command lists the files in the targeted path.
    * The output is not an error.
 3. with a path to a file
-   * ![Image](ls with path to a file.png)
+   * ![Image](ls-with-path-to-a-file.png)
    * `/workspaces/`
    * The command gives out the current path because ls can only list files in a given path.
    * the output is not an error.
