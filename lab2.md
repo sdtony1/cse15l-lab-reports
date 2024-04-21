@@ -38,5 +38,8 @@ class ChatServer {
 
 # Part 2
 1. ![Image](lab2part2a.png)
-2. ![Image]
+2. ![Image](lab2-part2b.png)
 3. ![Image](lab2part2c.png)
+
+# Part 3
+In week 2, I learned how to use `curl` to access a website from a terminal. In week 3, I learned how to log into `ieng6` server without entering the password. 
