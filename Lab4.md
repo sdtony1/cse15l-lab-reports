@@ -1,5 +1,5 @@
 # Step 4
-![Image] (Lab4-4.png)
+![Image](Lab4-4.png)
 Command pressed: `ssh ieng6.ucsd.edu`
 This command helps me log into ieng6 machine.
 
