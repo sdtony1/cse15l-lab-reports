@@ -20,7 +20,7 @@ The bug I chose is in the method `ReverseInPlace`
    ```
 3. The symptom of the two tests above
    ![Image](Lab3-part1a.png)
-   ![Image](Lab3-part1b.png)
+   ![Image](Lab3part1b.png)
 4. Code before and after:
    Code before:
    ```
