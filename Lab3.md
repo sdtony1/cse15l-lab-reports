@@ -46,7 +46,7 @@ The bug I chose is in the method `ReverseInPlace`
 
 # Part 2
 ## Command Less
-1. The command line option `-N` displays line numbers at the beginning of each line
+1. The command line option `-N` displays line numbers at the beginning of each line. This command helps navigate the line. 
   * Example 1:
     ```
     Tonys-MBP:technical shenda$ less -N biomed/ar149.txt
@@ -80,10 +80,9 @@ The bug I chose is in the method `ReverseInPlace`
     108
     ```
 
-    The prompt I gave to ChatGPT was "command-line options for command less."
-    It outputted "-N or --LINE-NUMBERS: Displays line numbers at the beginning of each line."
     
-2. The command line `-S` chops long lines that do not fit in the screen.
+    
+2. The command line `-S` chops long lines that do not fit in the screen. This command helps better display the message. 
    * Example 1:
      ```
      Tonys-MBP: technical shenda$ less -S 911report/chapter-1.txt
@@ -110,11 +109,9 @@ The bug I chose is in the method `ReverseInPlace`
                 the Taliban, and Pakistan.
      ```
 
-   The prompt I gave to ChatGPT was "command-line options for command less."
-   It outputted "-S or --chop-long-lines: Causes long lines to be chopped (truncated) rather than wrapped. That is, the portion of a long line that does not fit in the screen width 
-   will not be shown."
 
-3. The command line `-V` displays version information for `less`
+
+3. The command line `-V` displays version information for `less`. This command is useful for showing the information. 
    * Example 1:
      ```
      Tonys-MBP:technical shenda$ less -V biomed/ar149.txt
@@ -136,8 +133,7 @@ The bug I chose is in the method `ReverseInPlace`
      Home page: https://greenwoodsoftware.com/less
      ```
 
-   The prompt I gave to ChatGPT was "command-line options for command less."
-   It outputted "-V or --version: Displays version information for less."
+   
 
 4. The command line `-s` squeezes multiple adjacent blank lines into a single blank line.
    * Example 1:
@@ -163,9 +159,19 @@ The bug I chose is in the method `ReverseInPlace`
             Thomas H. Kean, chair
             Lee H. Hamilton, vice chair
        ```
-       The prompt I gave to ChatGPT was "command-line options for command less."
-       It outputted "-s or --squeeze-blank-lines: Squeezes multiple adjacent blank lines into a single blank line. This can make viewing files with large gaps more pleasant."
-     
+
+# ChatGPT Usage Section
+1. The prompt I gave to ChatGPT was "command-line options for command less."
+It outputted "-N or --LINE-NUMBERS: Displays line numbers at the beginning of each line."
+
+2. The prompt I gave to ChatGPT was "command-line options for command less."
+   It outputted "-S or --chop-long-lines: Causes long lines to be chopped (truncated) rather than wrapped. That is, the portion of a long line that does not fit in the screen width will not be shown."
+
+3. The prompt I gave to ChatGPT was "command-line options for command less."
+   It outputted "-V or --version: Displays version information for less."
+
+4. The prompt I gave to ChatGPT was "command-line options for command less."
+   It outputted "-s or --squeeze-blank-lines: Squeezes multiple adjacent blank lines into a single blank line. This can make viewing files with large gaps more pleasant."
      
     
   
