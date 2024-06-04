@@ -2,6 +2,8 @@
 1. Original post from the student, a guess of the bug, and failure-inducing input
    Student's code
    ![Image](Lab5-1.1.png)
+   I also checked the student's file structure.
+   ![Image](Lab5-1.5.png)
    Student's test
    ![Image](Lab5-1.2.png)
    Symptom
@@ -10,13 +12,13 @@
    So here's my guess of the bug and my failure-inducing input.
    ![Image](Lab5-1.4.png)
 
-2. My response according to the output of my failure-inducing test.
+3. My response according to the output of my failure-inducing test.
    Output of my failure-inducing test
    ![Image](Lab5-2.1.png)
    My response:
-   `There is something wrong with your reverseInPlace method. Your test case is not sufficient enough. Try to add more tests and think about more scenarios.`
+   `Your file structure is correct. There is something wrong with your reverseInPlace method. Your test case is not sufficient enough. Try to add more tests and think about more scenarios.`
 
-3. Student's behavior
+4. Student's behavior
    After receiving the response, the student adds more test cases to test his `reverseInPlace` method.
    ![Image](Lab5-2.2.png)
    ![Image](Lab5-2.3.png)
@@ -28,7 +30,7 @@
    ![Image](Lab5-2.4.png)
    Then the student resubmitted his codes to canvas.
 
-4. I test it using my own test case.
+5. I test it using my own test case.
    ![Image](Lab5-2.6.png)
    The student's codes pass my test.
    My response:
