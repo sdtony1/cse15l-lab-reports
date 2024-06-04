@@ -4,12 +4,12 @@
    ![Image](Lab5-1.1.png) 
    I also checked the student's file structure.                  
    ![Image](Lab5-1.5.png)
-
-   Student's test                                                
+   The file structure is correct.
+   Student's test case                                              
    ![Image](Lab5-1.2.png)
-   Symptom
+   Student's test case symptom
    ![Image](Lab5-1.3.png)
-   Though this student's code has no failure under his own test case, the method `reverseInPlace` does not look correct because of the usage of parameter `arr.length`.
+   Though this student's code has no failure under his own test case, the method `reverseInPlace` does not look correct because of the modification of `arr` inside the for loop.
    So here's my guess of the bug and my failure-inducing input.
    ![Image](Lab5-1.4.png)
 
