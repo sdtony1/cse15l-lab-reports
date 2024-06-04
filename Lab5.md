@@ -16,4 +16,23 @@
    My response:
    `There is something wrong with your reverseInPlace method. Your test case is not sufficient enough. Try to add more tests and think about more scenarios.`
 
-3. 
+3. Student's behavior
+   After receiving the response, the student adds more test cases to test his `reverseInPlace` method.
+   ![Image](Lab5-2.2.png)
+   ![Image](Lab5-2.3.png)
+   After detecting the failure, the student checks his codes and finds the bug. The method overwrites elements of the array in the first half of the loop, which means it doesn't 
+   correctly swap elements from the start and end of the array.
+   After knowing the error, the student modifies his codes by adding a separate parameter to store the length. 
+   ![Image](Lab5-2.5.png)
+   His modified codes pass his own test.
+   ![Image](Lab5-2.4.png)
+   Then the student resubmitted his codes to canvas.
+
+4. I test it using my own test case.
+   ![Image](Lab5-2.6.png)
+   The student's codes pass my test.
+   My response:
+   `Congratulation your codes passed the test cases. Your score is 100%!`
+
+# Part 2
+I find labs to be very meaningful. In lectures, I learn new concepts and operating methods from the professor. In labs, I have the chance to impliment them in real cases. I learned how to use Vim and JDB to debug. I learned the process of Autograder. Overrall, labs help me better understand and master the key points taught in classes. 
