@@ -1,10 +1,11 @@
 # Part 1
 1. Original post from the student, a guess of the bug, and failure-inducing input
    Student's code
-   ![Image](Lab5-1.1.png)
-   I also checked the student's file structure.
+   ![Image](Lab5-1.1.png) 
+   I also checked the student's file structure.                  
    ![Image](Lab5-1.5.png)
-   Student's test
+
+   Student's test                                                
    ![Image](Lab5-1.2.png)
    Symptom
    ![Image](Lab5-1.3.png)
