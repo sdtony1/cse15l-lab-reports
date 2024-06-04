@@ -3,8 +3,9 @@
    Student's code
    ![Image](Lab5-1.1.png) 
    I also checked the student's file structure.                  
-   ![Image](Lab5-1.5.png)
+   ![Image](Lab5-1.5.png)     
    The file structure is correct.
+   
    Student's test case                                              
    ![Image](Lab5-1.2.png)
    Student's test case symptom
